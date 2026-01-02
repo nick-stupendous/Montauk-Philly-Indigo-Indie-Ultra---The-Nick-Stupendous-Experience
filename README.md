@@ -49,8 +49,8 @@ There is no way to rate a game, but here is my opinion on it, I tried.
 | **Suggestive Themes**             |
 | **Interactive Elements**          |
 
-<h2 style="font-size: 36px; font-weight: bold; position: relative; padding-bottom: 60px;">
-  Nick Stupendous's Game Rating     
+#3 <h2 style="font-size: 36px; font-weight: bold; position: relative; padding-bottom: 60px;">
+  Nick Stupendous's Content Rating     
 
 ## How to Get Started
 
