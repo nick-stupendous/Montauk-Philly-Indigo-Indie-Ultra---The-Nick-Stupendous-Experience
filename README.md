@@ -30,7 +30,6 @@ There is no way to rate a game, but here is my opinion on it, I tried.
 
 ## 
 
-
 <h2 style="font-size: 36px; font-weight: bold; position: relative; padding-bottom: 60px;">
   Teen
 
