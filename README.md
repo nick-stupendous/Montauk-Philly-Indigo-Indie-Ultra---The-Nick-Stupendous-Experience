@@ -1,12 +1,12 @@
 # Montauk Philly Indigo Indie Ultra - The Nick Stupendous Experience
 
-Hey everyone! 👋 This is a passion project by fans, for fans. We're building an open-source remake of that TV show you remember, focusing on those first two spooky events from Fall 1983-84. Think of it as a love letter to the original, but rebuilt for modern PCs.
+Hey everyone! 👋 This is a passion project by fans, for fans. I am building an open-source remake of that TV show you remember, focusing on those first two spooky events from Fall 1983-84. Think of it as a love letter to the original, but rebuilt for modern PCs.
 
-This started from the Android version floating around online, and now we're bringing it to PC with help from anyone who wants to pitch in. If life gets in the way and we can't continue, the project is set up so you can pick it up and keep it going. The story shouldn't end just because someone got busy.
+This started from the Android version floating around online, which then the company decided to buy the version, and delist it. However, now I am bringing it to PC with help from anyone who wants to pitch in. If life gets in the way and I can't continue, the project is set up so you can pick it up and keep it going. The story shouldn't end just because someone got busy.
 
 ## About the Game
 
-It's a fantasy adventure with some sci-fi twists, all set during that eerie fall of '83-84. You'll recognize the vibe if you know the original, but we're adding our own touches too.
+It's a fantasy adventure with some sci-fi twists, all set during that eerie fall of '83-84. You'll recognize the vibe if you know the original, but I am adding my own touches too.
 
 ## What You'll Need to Run It
 
@@ -46,7 +46,7 @@ There is no way to rate a game, but here is my opinion on it, I tried.
 ## How to Get Started
 
 ### Just Want to Play?
-We'll have download links here once we have a version ready to share. Check back soon!
+I'll have download links here once I have a version ready to share. Check back soon!
 
 ### Want to Help Build It?
 If you're tech-savvy and want to contribute:
