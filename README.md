@@ -34,6 +34,8 @@ There is no way to rate a game, but here is my opinion on it, I tried.
   <sub style="position: absolute; bottom: 10px; left: 0; font-size: 36px; font-weight: bold;">T</sub>
 </h2>
 
+## 
+
 | Rating                            |
 | --------------------------------- |
 |  **Fictional Blood**              |
