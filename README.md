@@ -1,5 +1,30 @@
 # Montauk Philly Indigo Indie Ultra - The Nick Stupendous Experience
-This will be a PC Indie (Native) Remake from a famous TV Show, that eventually fell down, in the year of 2025,  this will only include the first two events of the series and comics, that were from Fall or October/November from 1983-1984. This game is inspired by the android port of the Montauk TV show, accompanied by many other conspiracies, made by a fan, for the fans. This game will not only contain similar elements but it will be more of a inspired game that's for everyone, this is an open source version of the game, If this game gets archived, do not panic, there will always be light at the end of the tunne, if it doesn't come through, then you (the fans) can hopefully move the tradition and keep it going, I wish you all good luck on this game.
+
+Hey everyone! 👋 This is a passion project by fans, for fans. We're building an open-source remake of that TV show you remember, focusing on those first two spooky events from Fall 1983-84. Think of it as a love letter to the original, but rebuilt for modern PCs.
+
+This started from the Android version floating around online, and now we're bringing it to PC with help from anyone who wants to pitch in. If life gets in the way and we can't continue, the project is set up so you can pick it up and keep it going. The story shouldn't end just because someone got busy.
+
+## About the Game
+
+It's a fantasy adventure with some sci-fi twists, all set during that eerie fall of '83-84. You'll recognize the vibe if you know the original, but we're adding our own touches too.
+
+## What You'll Need to Run It
+
+### Basic Setup
+- **Computer:** Windows 10, macOS 10.14, or Ubuntu 20.04 (or similar Linux)
+- **Processor:** Any dual-core from the last decade
+- **Memory:** 4GB RAM (most computers have this)
+- **Graphics:** Something that supports OpenGL 3.3 or Vulkan
+- **Space:** About 1GB free on your hard drive
+
+### If You Want It to Look Really Smooth
+- **Computer:** Windows 11, macOS 12, or Ubuntu 22.04
+- **Processor:** Quad-core (modern gaming PCs have this)
+- **Memory:** 8GB RAM or more
+- **Graphics:** A dedicated gaming graphics card
+- **Space:** 2GB free (still less than most phone games!)
+
+## Game Rating
 
 There is no way to rate a game, but here is my opinion on it, I tried.
 
@@ -17,3 +42,19 @@ There is no way to rate a game, but here is my opinion on it, I tried.
 | **Interactive Elements**          |
 | Nick Stupendous's Game Rating     |
 
+## How to Get Started
+
+### Just Want to Play?
+We'll have download links here once we have a version ready to share. Check back soon!
+
+### Want to Help Build It?
+If you're tech-savvy and want to contribute:
+
+```bash
+# Copy the project to your computer
+git clone https://github.com/nick-stupendous/Montauk-Philly-Indigo-Indie-Ultra---The-Nick-Stupendous-Experience.git
+
+# Move into the project folder
+cd Montauk-Philly-Indigo-Indie-Ultra---The-Nick-Stupendous-Experience
+
+# More instructions coming as we build it!
