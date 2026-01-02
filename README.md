@@ -30,7 +30,7 @@ There is no way to rate a game, but here is my opinion on it, I tried.
 
 <h2 style="font-size: 36px; font-weight: bold; position: relative; padding-bottom: 40px;">
   Teen
-  <sub style="position: absolute; bottom: 0; left: 0; font-size: 36px; font-weight: bold;">[T]</sub>
+  <sub style="position: absolute; bottom: 0; left: 0; font-size: 36px; font-weight: bold;">T</sub>
 </h2>
 
 | Rating                            |
