@@ -5,7 +5,7 @@ There is no way to rate a game, but here is my opinion on it, I tried.
 
 | **Teen**                          |
 | --------------------------------- |
-|   **T**                           |
+|               **T**               |
 |  **Fictional Blood**              |
 |  **Fantasy Violence**             |
 |   **Cartoon Violence**            |
@@ -15,6 +15,5 @@ There is no way to rate a game, but here is my opinion on it, I tried.
 | **Crude Humor**                   |
 | **Suggestive Themes**             |
 | **Interactive Elements**          |
-| --------------------------------- |
 | Nick Stupendous's Game Rating     |
 
