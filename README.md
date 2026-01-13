@@ -1,18 +1,24 @@
 # Montauk Philly Indigo Indie Ultra - The Nick Stupendous Experience
 
-**DISCLAIMER:** 
+**DISCLAIMER:** This project is a fan-made, non-commercial tribute to Stranger Things. All Stranger Things-related trademarks and copyrights are property of Netflix. No infringement intended.
 
-This is an unofficial fan project. Stranger Things is a trademark of Netflix. This project is not endorsed by or affiliated with Netflix.
+This software is provided "as-is" for educational and entertainment purposes only.
+
+---
 
 Hey everyone! 👋 This is a passion project by a fan, for fans. I am building an open-source remake of that TV show you remember, focusing on those first two spooky events from Fall 1983-84. Think of it as a love letter to the original, but rebuilt for modern PCs.
 
 This started from the Android version floating around online, which then the company decided to buy the version, and delist it. However, now I am bringing it to PC with help from anyone who wants to pitch in. If life gets in the way and I can't continue, the project is set up so you can pick it up and keep it going. The story shouldn't end just because someone got busy.
 
+---
+
 ## About the Game
 
 It's a fantasy adventure with some sci-fi twists, all set during that eerie fall of '83-84. You'll recognize the vibe if you know the original, but I am adding my own touches too.
 
-## What You'll Need to Run It
+---
+
+## System Requirements
 
 ### Basic Setup
 - **Computer:** Windows 10, macOS 10.14, or Ubuntu 20.04 (or similar Linux)
@@ -28,13 +34,14 @@ It's a fantasy adventure with some sci-fi twists, all set during that eerie fall
 - **Graphics:** A dedicated gaming graphics card
 - **Space:** 2GB free (still less than most phone games!)
 
+---
+
 ## Game Rating
 
-There is no way to rate a game, but here is my opinion on it, I tried.
+There is no official rating for this project, but here's my content assessment:
 
 <h2 style="font-size: 36px; font-weight: bold; position: relative; padding-bottom: 60px;">
   Teen
-
   <sub style="position: absolute; bottom: 10px; left: 0; font-size: 36px; font-weight: bold;">T</sub>
 </h2>
 
@@ -52,6 +59,8 @@ There is no way to rate a game, but here is my opinion on it, I tried.
 
 ## **Nick Stupendous's Content Rating**
 
+---
+
 ## How to Get Started
 
 ### Just Want to Play?
@@ -67,9 +76,4 @@ git clone https://github.com/nick-stupendous/Montauk-Philly-Indigo-Indie-Ultra--
 # Move into the project folder
 cd Montauk-Philly-Indigo-Indie-Ultra---The-Nick-Stupendous-Experience
 
-# More instructions coming as we build it!
-```
-
-This project is a fan-made, non-commercial tribute to Stranger Things. All Stranger Things-related trademarks and copyrights are property of Netflix. No infringement intended.
-
-This software is provided "as-is" for educational and entertainment purposes only.
+# More instructions coming as I build it!
