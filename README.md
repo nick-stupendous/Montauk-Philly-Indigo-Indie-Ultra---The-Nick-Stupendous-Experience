@@ -69,3 +69,7 @@ cd Montauk-Philly-Indigo-Indie-Ultra---The-Nick-Stupendous-Experience
 
 # More instructions coming as we build it!
 ```
+
+This project is a fan-made, non-commercial tribute to Stranger Things. All Stranger Things-related trademarks and copyrights are property of Netflix. No infringement intended.
+
+This software is provided "as-is" for educational and entertainment purposes only.
